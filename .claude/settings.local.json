@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Remove-Item \"c:\\\\Users\\\\blanc\\\\github\\\\Software-Delivery-Lifecycle\\\\labs\\\\2.2-openshift-intro-and-promotion.md\" -Force)",
+      "Bash(Remove-Item \"c:\\\\Users\\\\blanc\\\\github\\\\Software-Delivery-Lifecycle\\\\labs\\\\2.3-jobs-and-data-dependencies.md\" -Force)",
+      "Bash(Write-Output \"Deleted\")"
+    ]
+  }
+}
